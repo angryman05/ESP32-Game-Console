@@ -204,7 +204,7 @@ Proiect educațional, necomercial. PlayStation și DualSense sunt mărci înregi
 
 # 🇬🇧 English
 
-> PMP (Microprocessor Design) project, Technical University of Cluj-Napoca – Computer Science, 3rd year.
+> DMP (Design with Micro-Processors) project, Technical University of Cluj-Napoca – Computer Science, 3rd year.
 
 A handheld console inspired by the Nintendo Switch. It runs **3 retro games** on a 1.8" SPI TFT screen and is controlled with a **PS5 DualSense** controller over **Bluetooth**. An analog joystick and physical buttons are available as a fallback.
 
