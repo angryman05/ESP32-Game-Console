@@ -31,6 +31,27 @@ Consolă portabilă inspirată de Nintendo Switch. Rulează **3 jocuri retro** p
 
 **Jocuri propuse** (se aleg 3): 🐍 Snake · 🧱 Tetris · 👻 Pac-Man · 🏓 Pong · 🔨 Breakout
 
+<div align="center">
+
+## Prototip
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Rev1.png" alt="Prototip Rev1" width="100%"><br>
+      <b>Rev1</b><br>
+      <sub>Primul design – seamănă mai mult cu un Nintendo Switch</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/Rev2.png" alt="Prototip Rev2" width="100%"><br>
+      <b>Rev2</b><br>
+      <sub>Al doilea design – am renunțat la componentele care nu erau necesare, din cauza constrângerilor de pini ale NodeMCU-32S</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## 📦 Componente
 
 | Componentă | Rol |
@@ -209,6 +230,27 @@ Proiect educațional, necomercial. PlayStation și DualSense sunt mărci înregi
 A handheld console inspired by the Nintendo Switch. It runs **3 retro games** on a 1.8" SPI TFT screen and is controlled with a **PS5 DualSense** controller over **Bluetooth**. An analog joystick and physical buttons are available as a fallback.
 
 **Candidate games** (3 will be picked): 🐍 Snake · 🧱 Tetris · 👻 Pac-Man · 🏓 Pong · 🔨 Breakout
+
+<div align="center">
+
+## Prototype
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Rev1.png" alt="Rev1 prototype" width="100%"><br>
+      <b>Rev1</b><br>
+      <sub>First design – closer to a Nintendo Switch</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/Rev2.png" alt="Rev2 prototype" width="100%"><br>
+      <b>Rev2</b><br>
+      <sub>Second design – unnecessary extra parts were removed due to the NodeMCU-32S pin constraints</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 📦 Hardware
 
