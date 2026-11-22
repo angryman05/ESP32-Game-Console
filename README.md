@@ -15,7 +15,7 @@
 
 **[🇷🇴 Română](#-română)** · **[🇬🇧 English](#-english)**
 
-<img src="images/nodemcu32s-pinout.png" alt="Pinout NodeMCU-32S" width="650">
+<img src="images/nodemcu32s-pinout.jpg" alt="Pinout NodeMCU-32S" width="650">
 
 <sub>Pinout NodeMCU-32S – sursa: ardushop.ro</sub>
 
